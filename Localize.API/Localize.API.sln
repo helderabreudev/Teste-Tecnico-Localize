@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localize.API", "Localize.API\Localize.API.csproj", "{6915090D-CB15-4975-9ACB-59BAB1EF4DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localize.Domain", "Localize.Domain\Localize.Domain.csproj", "{F89134FB-A018-4B73-97FA-8FE212A3760C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localize.Application", "Localize.Application\Localize.Application.csproj", "{35C3DD25-4227-47DC-9FC1-0A90BEDF3EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localize.Infra", "Localize.Infra\Localize.Infra.csproj", "{9696F24B-2020-49E6-BA6E-26F8F347B973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6915090D-CB15-4975-9ACB-59BAB1EF4DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6915090D-CB15-4975-9ACB-59BAB1EF4DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6915090D-CB15-4975-9ACB-59BAB1EF4DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6915090D-CB15-4975-9ACB-59BAB1EF4DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89134FB-A018-4B73-97FA-8FE212A3760C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89134FB-A018-4B73-97FA-8FE212A3760C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89134FB-A018-4B73-97FA-8FE212A3760C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89134FB-A018-4B73-97FA-8FE212A3760C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C3DD25-4227-47DC-9FC1-0A90BEDF3EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C3DD25-4227-47DC-9FC1-0A90BEDF3EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C3DD25-4227-47DC-9FC1-0A90BEDF3EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C3DD25-4227-47DC-9FC1-0A90BEDF3EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9696F24B-2020-49E6-BA6E-26F8F347B973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9696F24B-2020-49E6-BA6E-26F8F347B973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9696F24B-2020-49E6-BA6E-26F8F347B973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9696F24B-2020-49E6-BA6E-26F8F347B973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC63ADF5-E903-4540-976C-B6929499AD21}
+	EndGlobalSection
+EndGlobal
